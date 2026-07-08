@@ -1,0 +1,15 @@
+/home/et12alumno/Escritorio/Labora/Medicion/bin/Debug/net8.0/Medicion
+/home/et12alumno/Escritorio/Labora/Medicion/bin/Debug/net8.0/Medicion.deps.json
+/home/et12alumno/Escritorio/Labora/Medicion/bin/Debug/net8.0/Medicion.runtimeconfig.json
+/home/et12alumno/Escritorio/Labora/Medicion/bin/Debug/net8.0/Medicion.dll
+/home/et12alumno/Escritorio/Labora/Medicion/bin/Debug/net8.0/Medicion.pdb
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.sourcelink.json
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.dll
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/refint/Medicion.dll
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.pdb
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/Medicion.genruntimeconfig.cache
+/home/et12alumno/Escritorio/Labora/Medicion/obj/Debug/net8.0/ref/Medicion.dll
